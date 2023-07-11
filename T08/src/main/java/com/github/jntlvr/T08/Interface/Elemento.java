@@ -1,4 +1,4 @@
-package T08.src.main.java.com.github.jntlvr.T08.Interface;
+package com.github.jntlvr.T08.Interface;
 import java.util.List;
 public class Elemento {
     private List<Botao> buttons;

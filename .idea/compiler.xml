@@ -6,10 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="T10" />
+        <module name="T08" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="T08" target="20" />
+      <module name="T09" target="20" />
+      <module name="T101" target="20" />
+      <module name="T11" target="20" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-Xlint:unchecked" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="T08" options="" />
+      <module name="T09" options="" />
+      <module name="T10" options="" />
+      <module name="T101" options="" />
+      <module name="T11" options="" />
+    </option>
   </component>
 </project>
