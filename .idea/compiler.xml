@@ -7,14 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="T10" />
+        <module name="T09" />
         <module name="T08" />
+        <module name="T11" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="T08" target="20" />
-      <module name="T09" target="20" />
       <module name="T101" target="20" />
-      <module name="T11" target="20" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
