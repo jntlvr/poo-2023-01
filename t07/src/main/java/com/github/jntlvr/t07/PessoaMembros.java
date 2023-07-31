@@ -1,4 +1,4 @@
-package T07.src.main.java.com.github.jntlvr.T07;
+package com.github.jntlvr.t07;
 
 public class PessoaMembros {
     private Data nascimento;
