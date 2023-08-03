@@ -1,5 +1,7 @@
 package com.github.jntlvr.t11.frase;
-import java.util.ArrayList;
+
+import java.util.List;
+
 public class Palavra {
-    private ArrayList<Letra> letras;
+    private List<Letra> letras;
 }

@@ -1,6 +1,7 @@
 package com.github.jntlvr.t07;
 
 public class Prova {
+
     private byte qtdQuestoes;
 
     public byte getQtdQuestoes(){

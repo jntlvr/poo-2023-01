@@ -1,5 +1,8 @@
 package com.github.jntlvr.t08.permissao;
-import java.util.ArrayList;
+
+import java.util.List;
+
 public class Arquivo {
-    private ArrayList<Permissao> perm;
+
+    private List<Permissao> perm;
 }

@@ -1,5 +1,7 @@
 package com.github.jntlvr.t11.casa;
+
 import java.util.List;
+
 public class Casa {
     private List<Area> areas;
     private List<Banheiro> toilets;

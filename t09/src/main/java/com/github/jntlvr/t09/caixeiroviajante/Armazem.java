@@ -1,5 +1,8 @@
 package com.github.jntlvr.t09.caixeiroviajante;
-import java.util.ArrayList;
+
+import java.util.List;
+
 public class Armazem {
-    private ArrayList<Pedido> requests;
+
+    private List<Pedido> requests;
 }
