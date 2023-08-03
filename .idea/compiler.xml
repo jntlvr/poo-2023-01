@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="T10" />
+        <module name="t21" />
         <module name="t11" />
         <module name="t13" />
         <module name="t07" />
+        <module name="t18" />
         <module name="T17" />
         <module name="T09" />
         <module name="T08" />
@@ -32,6 +34,8 @@
       <module name="t10" options="" />
       <module name="t11" options="" />
       <module name="t13" options="" />
+      <module name="t18" options="" />
+      <module name="t21" options="" />
     </option>
   </component>
 </project>
