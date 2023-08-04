@@ -15,6 +15,7 @@
         <module name="T17" />
         <module name="T09" />
         <module name="T08" />
+        <module name="t19" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -35,6 +36,7 @@
       <module name="t11" options="" />
       <module name="t13" options="" />
       <module name="t18" options="" />
+      <module name="t19" options="" />
       <module name="t21" options="" />
     </option>
   </component>
